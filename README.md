@@ -1,3 +1,14 @@
+# AUTO BUILD
+## Builds have not been verified or tested from main repository. Please do not submit bug reports from these builds.
+Windows, Linux, MacOS:
+[DOWNLOAD LATEST BUILD](https://github.com/Dolyfin/aseprite-autocompiled-binaries/releases) > Assets
+
+## Buy Official Aseprite from Steam
+https://store.steampowered.com/app/431730/Aseprite/
+
+
+
+
 # Aseprite
 
 [![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
